@@ -1,0 +1,12 @@
+[
+  {"titulo": "Matrix", "genero": "Ciencia ficcion", "rating": 9.0, "anio": 1999},
+  {"titulo": "Inception", "genero": "Ciencia ficcion", "rating": 8.8, "anio": 2010},
+  {"titulo": "Titanic", "genero": "Romance", "rating": 7.8, "anio": 1997},
+  {"titulo": "El Padrino", "genero": "Drama", "rating": 9.2, "anio": 1972},
+  {"titulo": "Coco", "genero": "Animacion", "rating": 8.4, "anio": 2017},
+  {"titulo": "Interstellar", "genero": "Ciencia ficcion", "rating": 8.6, "anio": 2014},
+  {"titulo": "Toy Story", "genero": "Animacion", "rating": 8.3, "anio": 1995},
+  {"titulo": "Pulp Fiction", "genero": "Drama", "rating": 8.9, "anio": 1994},
+  {"titulo": "Forrest Gump", "genero": "Drama", "rating": 8.8, "anio": 1994},
+  {"titulo": "El Origen", "genero": "Ciencia ficcion", "rating": 8.7, "anio": 2010}
+]
